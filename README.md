@@ -6,10 +6,10 @@
 [ ![GitHub Stars](https://img.shields.io/github/stars/HyperiumClient/Hyperium.svg?style=social&label=Star&maxAge=2592000)](https://github.com/HyperiumClient/Hyperium/stargazers)
 [ ![GitHub Watches](https://img.shields.io/github/watchers/HyperiumClient/Hyperium.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/HyperiumClient/Hyperium/watchers)  
 
-# Hyperium #  
+# Hyperium Reborn #  
 
-## What is Hyperium? ##
-Hyperium is a free and open source Minecraft 1.8.9 client. It combines many popular features, in addition to suggestions and ideas from the community, in order to provide a unique experience designed for Hypixel.
+## What is Hyperium Reborn? ##
+Hyperium Reborn is a free and open source Minecraft 1.8.9 client. It combines many popular features, in addition to suggestions and ideas from the community, in order to provide a unique experience designed for Hypixel.
 
 ## Features ##
 - Discord Rich Presence (Custom)
@@ -66,7 +66,7 @@ A: Join the [Discord](https://discord.gg/sk1er) and ask a member of the staff te
 Addons are Hyperium's system of mods, like Forge, except they're done using the [Addon Workspace / Addon API](https://github.com/HyperiumClient/Addon-Workspace/). The selection to currently available addons is low, so if you wish to make some, feel free to share it with other Hyperium members.
 
 ### License ###  
-Hyperium is licensed under the GNU Lesser General Public License. You can view it [here](./LICENSE).
+Hyperium Reborn is licensed under the GNU Lesser General Public License. You can view it [here](./LICENSE).
 
 ## Developer Resources ##
 	
@@ -79,16 +79,12 @@ To make an addon, clone the [Addon Workspace](https://github.com/HyperiumClient/
 Follow [this tutorial](https://www.youtube.com/watch?v=RXTIFdoNA8c) to get started.
 
 ### Developers ###
-[![Sk1er](https://avatars1.githubusercontent.com/u/18709703?s=128&v=4)](https://github.com/Sk1er)
-[![CoalOres](https://avatars0.githubusercontent.com/u/12765568?s=128&v=4)](https://github.com/CoalCoding)
-[![KevinPriv](https://avatars3.githubusercontent.com/u/31252471?s=128&v=4)](https://github.com/KevinPriv)
-[![Cubxity](https://avatars1.githubusercontent.com/u/27609129?s=128&v=4)](https://github.com/Cubxity)
-[![boomboompower](https://avatars1.githubusercontent.com/u/12974350?s=128&v=4)](https://github.com/boomboompower)
-[![FalseHonesty](https://avatars2.githubusercontent.com/u/20765494?s=128&v=4)](https://github.com/FalseHonesty)
-[![asbyth](https://avatars1.githubusercontent.com/u/36578995?s=128&v=4)](https://github.com/asbyth)
+Sk1er - made the code
+
 
 ## Special Thanks ##
 [![YourKit Java Profiler](https://www.yourkit.com/images/yklogo.png)](https://www.yourkit.com/java/profiler/)
+Sk1er
 
 YourKit supports open source projects with its full-featured Java Profiler.
 YourKit, LLC is the creator of [YourKit Java Profiler](https://www.yourkit.com/java/profiler/)
